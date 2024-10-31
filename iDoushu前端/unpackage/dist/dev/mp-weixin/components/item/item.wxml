@@ -1,0 +1,1 @@
+<view class="box data-v-d25a932c"><image class="data-v-d25a932c" src="{{a}}" mode="widthFix"></image><view class="title data-v-d25a932c">{{b}}</view><view class="user data-v-d25a932c"><image src="{{c}}" mode="aspectFill" class="user data-v-d25a932c"></image><view class="name data-v-d25a932c">{{d}}</view></view></view>

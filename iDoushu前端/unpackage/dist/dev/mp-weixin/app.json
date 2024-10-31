@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/word/word",
+    "pages/publish/publish",
+    "pages/friend/friend",
+    "pages/message/message",
+    "components/item/item",
+    "pages/video/video",
+    "pages/note/note",
+    "components/friend_item/friend_item",
+    "pages/ces/ces",
+    "pages/information/information"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "selectedColor": "#2caced",
+    "borderStyle": "black",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/publish/publish",
+        "text": "发布"
+      },
+      {
+        "pagePath": "pages/friend/friend",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/word/word",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
